@@ -15,5 +15,4 @@ t.goto(outerRadius, 0)
 t.pd()
 t.circle(outerRadius,360)
 
-
-turtle.done()
+turtle.exitonclick()
