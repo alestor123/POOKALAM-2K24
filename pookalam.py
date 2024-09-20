@@ -76,8 +76,9 @@ t.pd()
 t.pendown()
 t.circle(outerRadius+15,360)
 t.end_fill()
+petals(5,innerRadius)
 
-
+# t.home()
 
 # drawSquare(outerRadius,"magenta")
 
