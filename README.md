@@ -12,7 +12,7 @@
 
 
 Hello, I'm Alestor Aldous
-First year Computer Science Student from at [Government Model Engineering College
+First year Computer Science Student  at [Government Model Engineering College
 ](https://www.mec.ac.in/)
 
 This is my submission for Code_A_Pookalam, done using turtle library of Python
